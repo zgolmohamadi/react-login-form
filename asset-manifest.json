@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-login-form/static/css/main.fa6f475b.css",
+    "main.js": "/react-login-form/static/js/main.f0bd9361.js",
+    "static/media/Capture.svg": "/react-login-form/static/media/Capture.4ca6180b2225eafd97a6fdae21a053b4.svg",
+    "index.html": "/react-login-form/index.html",
+    "main.fa6f475b.css.map": "/react-login-form/static/css/main.fa6f475b.css.map",
+    "main.f0bd9361.js.map": "/react-login-form/static/js/main.f0bd9361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6f475b.css",
+    "static/js/main.f0bd9361.js"
+  ]
+}
